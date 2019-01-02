@@ -34,7 +34,7 @@ ApplicationWindow {
                 sourceSize.width: 0
                 Layout.alignment: Qt.AlignLeft | Qt.AlignTop
                 fillMode: Image.PreserveAspectFit
-                source: "images/QMLNET_Logo.png"
+                source: "Images/QMLNET_Logo.png"
             }
 
             ColumnLayout {
